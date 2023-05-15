@@ -1,0 +1,120 @@
+body {
+    background-image: url("Blue Background.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+}
+
+p {
+    color:yellow;
+    font-size: 33px;
+    margin-top: 5px;
+}
+
+h1 { 
+    Color:white;
+    font-size: 40px;
+}
+
+img { 
+    height: 300px;
+    margin-right: 50px;
+}
+.No-school {
+    border: 10px solid blue;
+    border-image: fill;
+}
+.School {
+    Border: 10px solid blue;
+}
+
+.no-school {
+    Border: 10px solid blue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td{
+    background-color: lightblue;
+    padding: 10px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+th{
+    border: 3px solid black;
+    font-size: x-large;
+}
+
+.days-header{
+    background-color: lightgreen;
+
+}
+
+.monday-header{
+    background-color: green;
+}
+
+.tuesday-header{
+    background-color: lightgreen;
+}
+
+.wednsday-header{
+    background-color: green;
+}
+
+.thursday-header{
+    background-color: lightgreen;
+}
+
+.friday-header{
+    background-color: green;
+}
+
+.reccess-header{
+    background-color: lightgreen;
+}
+
+.saturday-header{
+    background-color: green;
+}
+
+.sunday-header{
+    background-color: lightgreen;
+}
+
+.math-header{
+    background-color: green;
+}
+
+.lunch-header{
+    background-color: lightgreen;
+}
+
+.literacy-header{
+    background-color: green;
+}
+
+p2 {
+    color: pink;
+    font-size: 40px;
+}
+
+body {
+    background-image: url("Blue Background.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+}
+
+h3 {
+    color:white;
+    font-size:40px;
+}
+
+.thumbs-up {
+    height: 94px;
+}
+
