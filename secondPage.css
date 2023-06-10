@@ -1,5 +1,6 @@
 table {
     border-collapse: collapse;
+    
 }
 
 td{
@@ -82,5 +83,15 @@ h3 {
 
 .thumbs-up {
     height: 94px;
+}
+
+a {
+    font-size: 40px;
+    border: 4px solid yellow;
+    background-color: White;
+    text-decoration: none;
+    color: blue; 
+    margin-right: 1350;
+    font-family: Gill Sans;
 }
 
