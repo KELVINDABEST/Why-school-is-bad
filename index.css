@@ -36,11 +36,30 @@ table {
     border-collapse: collapse;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+li {
+    display: inline;
+    float: left;
+}
+  
 a {
-    font-size: 40px;
-    border: 4px solid yellow;
-    background-color: White;
-    text-decoration: none;
-    color: blue; 
-    font-family: Gill Sans;
+      display: block;
+      padding: 8px;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li a {
+    color:white;
+    text-decoration:none;
+    padding: 14px 16px;
 }
