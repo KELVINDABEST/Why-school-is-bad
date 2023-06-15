@@ -2,17 +2,17 @@ body {
     background-image: url("Blue Background.jpeg");
     background-repeat: no-repeat;
     background-size:cover;
-    color:white;
+    color: white;
 }
 
 p {
-    color:yellow;
+    color: yellow;
     font-size: 33px;
     margin-top: 5px;
 }
 
 h1 { 
-    Color:white;
+    Color: white;
     font-size: 40px;
 }
 
@@ -59,7 +59,7 @@ li a:hover {
 }
 
 li a {
-    color:white;
+    color: white;
     text-decoration:none;
     padding: 14px 16px;
 }
